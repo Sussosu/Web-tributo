@@ -1,0 +1,135 @@
+
+body{
+    font-family: sans-serif;
+    background: #261013;
+  
+
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: none;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;  
+
+ }
+
+.menu li a{
+    text-decoration: none;
+    color: #D51E23;
+    padding: 20px;
+    display: block;
+    
+
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+}
+
+.menu li a:hover{
+    background:  #000;
+    
+}
+
+.menu{
+ border-style: outset;
+    border-width: thin;
+    border-color:#D51E23;
+    border-right: none;
+    border-left: none;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-top: 1px ;
+}
+  
+.brand img{
+    height: 40px;
+   width: 40px;
+ display: center;
+ margin-left: 10px;
+ margin-top: 10px;
+ align-items: center;
+
+
+}
+
+#container h2{
+    color: #D51E23;
+    font-size: 4ch ;
+    display: block;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+
+#container h3{
+    color: #D51E23;
+    font-size: 4ch ;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+   }
+
+   #container h4{
+    color: #D51E23;
+    font-size: 4ch ;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+   }
+
+   #container h5{
+    color: #D51E23;
+    font-size: 4ch ;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+#container p{
+    color: #D51E23;
+    font-size: 2ch ;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.article{
+    color: #D51E23;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+   
+}
+
+img{
+    width: 250px;
+ 
+
+
+}
+
+.descripcion{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 #000;
+    float: left;
+    width: 300px;
+    text-align: end;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+
+
+
